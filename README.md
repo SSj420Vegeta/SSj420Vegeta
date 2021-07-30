@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SSj420Vegeta
+- 👋 Hi, I’m @TheoDan-Projects
 - 👀 I’m interested in coding projects
 - 🌱 I’m currently learning js and java
 - 💞️ I’m looking to collaborate on anything
